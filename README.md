@@ -15,8 +15,6 @@ To run the scraper and perform EDA, ensure you have the following dependencies i
 
 Install the required dependencies using pip:
 ```
-bash
-
 pip install beautifulsoup4 selenium pandas
 ```
 Additionally, you need to have the Chrome WebDriver installed and its path set in the system environment variables.
@@ -30,8 +28,6 @@ Usage
 
     Run the script using the following command:
 ```
-bash
-
 python daraz_scraper.py
 ```
     Once the scraping process is complete, the dataset will be saved as Daraz_Phone_Dataset.csv in the same directory.
