@@ -12,6 +12,7 @@ To run the scraper and perform EDA, ensure you have the following dependencies i
     BeautifulSoup
     Selenium
     pandas
+    matplotlib
 
 Install the required dependencies using pip:
 ```
