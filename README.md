@@ -20,16 +20,16 @@ pip install beautifulsoup4 selenium pandas
 Additionally, you need to have the Chrome WebDriver installed and its path set in the system environment variables.
 Usage
 
-    Clone or download the repository to your local machine.
+Clone or download the repository to your local machine.
 
-    Open the daraz_scraper.py file in your preferred code editor.
+Open the daraz_scraper.py file in your preferred code editor.
 
-    Adjust the pages_to_parse variable to specify the number of pages you want to scrape.
+Adjust the pages_to_parse variable to specify the number of pages you want to scrape.
 
-    Run the script using the following command:
+Run the script using the following command:
 ```
 python daraz_scraper.py
 ```
-    Once the scraping process is complete, the dataset will be saved as Daraz_Phone_Dataset.csv in the same directory.
+Once the scraping process is complete, the dataset will be saved as Daraz_Phone_Dataset.csv in the same directory.
 
-    Use the generated CSV file for exploratory data analysis in your preferred environment (e.g., Jupyter Notebook, Google Colab).
+Use the generated CSV file for exploratory data analysis in your preferred environment (e.g., Jupyter Notebook, Google Colab).
